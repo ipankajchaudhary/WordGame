@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TheWordGame/static/css/main.7a76c24c.chunk.css",
-    "main.js": "/TheWordGame/static/js/main.29d00efa.chunk.js",
-    "main.js.map": "/TheWordGame/static/js/main.29d00efa.chunk.js.map",
-    "runtime-main.js": "/TheWordGame/static/js/runtime-main.6fe6eebe.js",
-    "runtime-main.js.map": "/TheWordGame/static/js/runtime-main.6fe6eebe.js.map",
-    "static/js/2.6197745e.chunk.js": "/TheWordGame/static/js/2.6197745e.chunk.js",
-    "static/js/2.6197745e.chunk.js.map": "/TheWordGame/static/js/2.6197745e.chunk.js.map",
-    "static/js/3.e1516795.chunk.js": "/TheWordGame/static/js/3.e1516795.chunk.js",
-    "static/js/3.e1516795.chunk.js.map": "/TheWordGame/static/js/3.e1516795.chunk.js.map",
-    "index.html": "/TheWordGame/index.html",
-    "static/css/main.7a76c24c.chunk.css.map": "/TheWordGame/static/css/main.7a76c24c.chunk.css.map",
-    "static/js/2.6197745e.chunk.js.LICENSE.txt": "/TheWordGame/static/js/2.6197745e.chunk.js.LICENSE.txt"
+    "main.css": "/WordGame/static/css/main.7a76c24c.chunk.css",
+    "main.js": "/WordGame/static/js/main.29d00efa.chunk.js",
+    "main.js.map": "/WordGame/static/js/main.29d00efa.chunk.js.map",
+    "runtime-main.js": "/WordGame/static/js/runtime-main.0602f563.js",
+    "runtime-main.js.map": "/WordGame/static/js/runtime-main.0602f563.js.map",
+    "static/js/2.6197745e.chunk.js": "/WordGame/static/js/2.6197745e.chunk.js",
+    "static/js/2.6197745e.chunk.js.map": "/WordGame/static/js/2.6197745e.chunk.js.map",
+    "static/js/3.e1516795.chunk.js": "/WordGame/static/js/3.e1516795.chunk.js",
+    "static/js/3.e1516795.chunk.js.map": "/WordGame/static/js/3.e1516795.chunk.js.map",
+    "index.html": "/WordGame/index.html",
+    "static/css/main.7a76c24c.chunk.css.map": "/WordGame/static/css/main.7a76c24c.chunk.css.map",
+    "static/js/2.6197745e.chunk.js.LICENSE.txt": "/WordGame/static/js/2.6197745e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fe6eebe.js",
+    "static/js/runtime-main.0602f563.js",
     "static/js/2.6197745e.chunk.js",
     "static/css/main.7a76c24c.chunk.css",
     "static/js/main.29d00efa.chunk.js"
