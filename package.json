@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://ipankajchaudhary.github.io/WordGame", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
